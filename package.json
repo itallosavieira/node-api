@@ -1,0 +1,24 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "API With Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itallosavieira/node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itallosavieira/node-api/issues"
+  },
+  "homepage": "https://github.com/itallosavieira/node-api#readme",
+  "dependencies": {
+    "debug": "^4.3.3",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security"
+  }
+}
